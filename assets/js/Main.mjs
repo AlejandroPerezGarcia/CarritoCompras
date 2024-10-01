@@ -102,14 +102,14 @@ function mostrarDetallesCarrito() {
     const removeButton = document.createElement('button')
     removeButton.className = 'btn btn-danger btn-sm'
     removeButton.textContent = 'Eliminar'
-    removeButton.onclick = () => {
+    /* removeButton.onclick = () => {
       carrito.eliminarProducto(item.producto.nombre)
       mostrarDetallesCarrito()
     }
-
+ */
     buttonGroup.appendChild(increaseButton)
     buttonGroup.appendChild(reduceButton)
-    buttonGroup.appendChild(removeButton)
+    // buttonGroup.appendChild(removeButton)
     listItem.appendChild(productText)
     listItem.appendChild(priceBadge)
     listItem.appendChild(buttonGroup)
