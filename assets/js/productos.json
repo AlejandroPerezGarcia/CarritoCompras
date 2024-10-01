@@ -1,0 +1,14 @@
+{
+  "productos": [
+    { "nombre": "Manzanas", "precio": 1000 },
+    { "nombre": "Leche", "precio": 800 },
+    { "nombre": "Pan", "precio": 700 },
+    { "nombre": "Arroz", "precio": 1500 },
+    { "nombre": "Huevos", "precio": 2000 },
+    { "nombre": "Pollo", "precio": 5000 },
+    { "nombre": "Tomates", "precio": 600 },
+    { "nombre": "Pasta", "precio": 1200 },
+    { "nombre": "Aceite de oliva", "precio": 3500 },
+    { "nombre": "Cereal", "precio": 2500 }
+  ]
+}
